@@ -638,6 +638,20 @@ nav {
   .nav__list {
     display: none;
   }
+  .footer {
+    flex-direction: column;
+  }
+  .logo {
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  .seti {
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  .logo2 {
+    margin: 0 auto;
+  }
 }
 @media (max-width: 550px) {
   .container {
